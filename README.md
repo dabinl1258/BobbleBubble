@@ -1,2 +1,5 @@
-# BobbleBubble
-보블버블 구현 토이프로젝트 
+# Bobble Bubble
+Toy project of 'Bubble Bobble'
+
+# Resource from
+https://www.spriters-resource.com/arcade/bublbobl/sheet/14077/
